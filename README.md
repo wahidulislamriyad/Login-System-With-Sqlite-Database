@@ -54,6 +54,7 @@ Requirements
 Installation
 
 A) Configuration
+
     1) config.php
         You will need to do some configurations inside config.php to /databases folder
         Edit or change these configs there
