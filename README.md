@@ -15,7 +15,7 @@ PHP Login System
 	
 	Web: https://r-server.000webhostapp.com/login-sqlite
 	
-	Download: https://r-server.000webhostapp.com/php-login-sqlite.zip
+	Download: <a href="https://r-server.000webhostapp.com/download.php?name=files/login-sqlite.zip">https://r-server.000webhostapp.com/download.php?name=files/login-sqlite.zip</a>
 	
 	https://www.facebook.com/wahidulislamriyad
 	
