@@ -63,6 +63,8 @@ A) Configuration
         As Required:
 
         /------------------------------------------------------
+	
+	
         Options -Multiviews
 
         RewriteEngine On
@@ -76,6 +78,8 @@ A) Configuration
         RewriteRule ^change$ /projects/login/change.php [L]
         RewriteRule ^profile$ /projects/login/profile.php [L]
         RewriteRule ^logout$ /projects/login/logout.php [L]
+	
+	
         ------------------------------------------------------/
 
         Change the filenames (on the right side of the RewriteRule) if you used your own pages or renamed any of the files above.
