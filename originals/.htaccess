@@ -1,0 +1,8 @@
+RewriteEngine on
+Options -Indexes
+RewriteCond "%{HTTP_HOST}" "!^$"
+RewriteCond "%{HTTP_HOST}" "!none" [NC]
+RewriteRule "\.(db|sql|sq3)$"    "none"   [F,NC]
+RewriteCond "%{HTTP_REFERER}" "!^$"
+RewriteCond "%{HTTP_REFERER}" "!none" [NC]
+RewriteRule "\.(db|sql|sq3)$"    "none"   [F,NC]
