@@ -1,29 +1,30 @@
-// PHP Login System
-// With SQLite Database
-// Including User Picture Upload Feature
-// Stylish, Secure & Easy
-// Developed by Wahidul Islam Riyad
-// Web: https://r-server.000webhostapp.com/login-sqlite
-// Download: https://r-server.000webhostapp.com/php-login-sqlite.zip
-// Support: https://www.facebook.com/wahidulislamriyad
-// Twitter: @Wahidul_Riyad
-// Google Mail (Gmail): wahidulislamriyad@gmail.com
-//
-// Copyright (C) 2017 Wahidul Islam Riyad
-//
-// This program is free software: you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
-// the Free Software Foundation.
-//
-// This program is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// GNU General Public License for more details.
-//
-// You should have received a copy of the GNU General Public License
-// along with this program.  If not, see <http://www.gnu.org/licenses/>.
-//
-// Build: 2017090001
+PHP Login System
+	With SQLite Database
+	Including User Picture Upload Feature
+	Stylish, Secure & Easy
+	Developed by Wahidul Islam Riyad
+	Web: https://r-server.000webhostapp.com/login-sqlite
+	Download: https://r-server.000webhostapp.com/php-login-sqlite.zip
+	https://www.facebook.com/wahidulislamriyad
+	Google Mail (Gmail): wahidulislamriyad@gmail.com
+	
+
+	Copyright (C) 2017 Wahidul Islam Riyad
+
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Build: 2017090001
 
 The enclosed code is a PHP class I came up with to enable secure logins on any site it's dropped into. Some configuration is required, but as you will see, it's fast, secure, easy to set up, and most of all gets the job done.
 
