@@ -1,0 +1,13 @@
+Options -Multiviews
+
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^index$ /projects/login/index.php [L]
+RewriteRule ^login?$ /projects/login/login.php [L]
+RewriteRule ^signup$ /projects/login/sign-up.php [L]
+RewriteRule ^forgot$ /projects/login/forgot.php [L]
+RewriteRule ^forgot-pass$ /projects/login/forgot-page.php [L]
+RewriteRule ^change$ /projects/login/change.php [L]
+RewriteRule ^profile$ /projects/login/profile.php [L]
+RewriteRule ^logout$ /projects/login/logout.php [L]
