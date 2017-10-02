@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Requires admin permission"
+AuthUserFile <edit location here>/sqlite_crud/.htpasswd
+require valid-user
