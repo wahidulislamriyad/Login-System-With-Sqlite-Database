@@ -1,11 +1,24 @@
 PHP Login System
+
+
 	With SQLite Database
+	
+	
 	Including User Picture Upload Feature
+	
+	
 	Stylish, Secure & Easy
+	
+	
 	Developed by Wahidul Islam Riyad
+	
+	
 	Web: https://r-server.000webhostapp.com/login-sqlite
+	
 	Download: https://r-server.000webhostapp.com/php-login-sqlite.zip
+	
 	https://www.facebook.com/wahidulislamriyad
+	
 	Google Mail (Gmail): wahidulislamriyad@gmail.com
 	
 
