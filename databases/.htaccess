@@ -1,3 +1,4 @@
+DENY FROM ALL
 RewriteEngine on
 Options -Indexes
 RewriteCond "%{HTTP_HOST}" "!^$"
